@@ -17,3 +17,6 @@ python detect_video.py
 
 ## Output
 - Video with bounding boxes
+
+## Model
+- Google Drive Link - https://drive.google.com/file/d/17MjDSG3cPVXmbMZUb0onTGHACrzSMiNg/view?usp=drive_link
