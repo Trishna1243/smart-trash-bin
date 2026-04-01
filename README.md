@@ -1,4 +1,4 @@
-# Smart Trash Bin - YOLOv5
+# Smart Trash Bin
 
 This project uses YOLOv5 to detect garbage from videos.
 
